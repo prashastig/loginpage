@@ -17,9 +17,9 @@ body{
     box-shadow: 0 0 10px 0 black;
     margin: auto;
 }
-.image{
-    
-}
+button:hover {   
+    opacity: 0.7;   
+}   
 ul.list{
 list-style-type: none;
 text-align: center; 
